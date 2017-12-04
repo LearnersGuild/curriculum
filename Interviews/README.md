@@ -15,9 +15,11 @@ To schedule a phase interview, use the correct scheduling link provided for the 
 - [Schedule Practice Phase Interview](http://)
 - [Schedule Apprenticeship Phase Interview](http://)
 
-### Before the Interview
+---
 
-##### System Requirements
+### Preparing for the interview
+
+#### System Requirements
 
 - **Node.js**
   All phase interviews require you to have a specific version of node.js installed on your machine.
@@ -42,7 +44,7 @@ To schedule a phase interview, use the correct scheduling link provided for the 
 
   Any 9.x version of Postgres or greater will work for the interview challenges.
 
-##### Live coding challenge practice
+#### Live coding practice
 
 For more details about what each phase interview covers and sample challenges, see the phase-specific interview pages:
 
