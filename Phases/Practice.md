@@ -52,20 +52,20 @@ Use the following steps to add the phase calendar to your Google Calendar:
 
 ## Modules
 
-- _P:_ [CRUD Mutability](/Modules/CRUD-Mutability)
-- _P:_ [Simple Book Store](/Modules/Simple-Book-Store)
-- _P:_ [Auth Snapshot (Simple)](/Modules/Auth-Snapshot-Simple)
-- _P:_ [To Do List App](/Modules/To-Do-List-App)
-- _P:_ [Testing Snapshot](/Modules/Testing-Snapshot)
-- _P:_ [Migrations Snapshot](/Modules/Migrations-Snapshot)
-- _P:_ [Mmmarkdown](/Modules/Mmmarkdown)
-- _P:_ [Pizza Restaurant: Relational DB With CRUD API](/Modules/Pizza-Restaurant)
-- _P:_ [Timeoff: Approver Epic](/Modules/Timeoff)
-- _P:_ [Roam](/Modules/Roam)
-- _P:_ [Your Portfolio Site](/Modules/Your-Portfolio-Site)
-- _P:_ [Trossello Snapshot: Members and Teams Epic](/Modules/Trosello-Snapshot)
-- _P:_ [Debugging Snapshot](/Modules/Debugging-Snapshot)
-- _P:_ [Refactoring Snapshot](/Modules/Refactoring-Snapshot)
+- _P:_ [CRUD Mutability](/Modules/CRUD-Mutability/README.md)
+- _P:_ [Simple Book Store](/Modules/Simple-Book-Store/README.md)
+- _P:_ [Auth Snapshot (Simple)](/Modules/Auth-Snapshot-Simple/README.md)
+- _P:_ [To Do List App](/Modules/To-Do-List-App/README.md)
+- _P:_ [Testing Snapshot](/Modules/Testing-Snapshot/README.md)
+- _P:_ [Migrations Snapshot](/Modules/Migrations-Snapshot/README.md)
+- _P:_ [Mmmarkdown](/Modules/Mmmarkdown/README.md)
+- _P:_ [Pizza Restaurant: Relational DB With CRUD API](/Modules/Pizza-Restaurant/README.md)
+- _P:_ [Timeoff: Approver Epic](/Modules/Timeoff/README.md)
+- _P:_ [Roam](/Modules/Roam/README.md)
+- _P:_ [Your Portfolio Site](/Modules/Your-Portfolio-Site/README.md)
+- _P:_ [Trossello Snapshot: Members and Teams Epic](/Modules/Trosello-Snapshot/README.md)
+- _P:_ [Debugging Snapshot](/Modules/Debugging-Snapshot/README.md)
+- _P:_ [Refactoring Snapshot](/Modules/Refactoring-Snapshot/README.md)
 
 ## Video Library
 
