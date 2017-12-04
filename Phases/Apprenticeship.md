@@ -1,4 +1,4 @@
-# Apprenticeship Phase (a.k.a. Area 45)
+# Apprenticeship Phase ("Area 45")
 
 ## Description
 

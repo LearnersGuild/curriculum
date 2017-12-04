@@ -5,7 +5,7 @@
     * [Foundations](/Phases/Foundations.md)
     * [Practice](/Phases/Practice.md)
     * [Apprenticeship](/Phases/Apprenticeship.md)
-  * [Phase Interviews](/Interviews/README.md)
+  * [Interviews](/Interviews/README.md)
     * [Preparation](/Interviews/Preparation.md)
     * [Practice](/Interviews/Practice.md)
     * [Apprenticeship](/Interviews/Apprenticeship.md)

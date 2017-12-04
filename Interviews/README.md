@@ -8,6 +8,13 @@ The outcome of the interview is based on the completion of a set of detailed spe
 
 ---
 
+### Scheduling your interview
+
+To schedule a phase interview, use the correct scheduling link provided for the interview you need to take:
+
+- [Schedule Practice Phase Interview](http://)
+- [Schedule Apprenticeship Phase Interview](http://)
+
 ### Before the Interview
 
 ##### System Requirements
@@ -35,14 +42,7 @@ The outcome of the interview is based on the completion of a set of detailed spe
 
   Any 9.x version of Postgres or greater will work for the interview challenges.
 
-##### Scheduling
-
-To schedule a phase interview, use the correct scheduling link provided for the interview you need to take:
-
-- [Practice Interview Scheduling](Interviews/Practice.md)
-- [Apprenticeship Interview Scheduling](Interviews/Apprenticeship.md)
-
-##### Interview practice
+##### Live coding challenge practice
 
 For more details about what each phase interview covers and sample challenges, see the phase-specific interview pages:
 
