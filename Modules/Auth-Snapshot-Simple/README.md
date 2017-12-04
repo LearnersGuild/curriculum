@@ -1,4 +1,4 @@
-# Auth Snapshot Simple (444)
+# Auth Snapshot Simple
 
 ## Skills
 

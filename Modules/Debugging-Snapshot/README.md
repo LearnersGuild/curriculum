@@ -1,4 +1,4 @@
-# Debugging Snapshot (448 Team Size: 1)
+# Debugging Snapshot
 
 ## Challenge Rating
 

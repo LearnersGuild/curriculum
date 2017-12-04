@@ -1,4 +1,4 @@
-# Pizza Restaurant: RDB Schema with CRUD API (98)
+# Pizza Restaurant: RDB Schema with CRUD API
 
 ## Skills
 

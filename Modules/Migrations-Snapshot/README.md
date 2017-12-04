@@ -1,4 +1,4 @@
-# Migrations Snapshot (447)
+# Migrations Snapshot
 
 ## Skills
 
