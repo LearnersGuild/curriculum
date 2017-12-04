@@ -6,7 +6,6 @@
     * [Practice](/Phases/Practice.md)
     * [Apprenticeship](/Phases/Apprenticeship.md)
   * [Interviews](/Interviews/README.md)
-    * [Preparation](/Interviews/Preparation.md)
     * [Practice](/Interviews/Practice.md)
     * [Apprenticeship](/Interviews/Apprenticeship.md)
   * [CONTRIBUTING](/CONTRIBUTING.md)
