@@ -52,28 +52,28 @@ Use the following steps to add the phase calendar to your Google Calendar:
 
 ## Modules
 
-- _P:_ [CRUD Mutability - Goal 383](../../modules/CRUD-Mutability--Goal-383)
-- _P:_ [Simple Book Store - Goal 69](../../modules/Simple-Book-Store--Goal-69)
-- _P:_ [Auth Snapshot Simple - Goal 444](../../modules/Auth-Snapshot-Simple--Goal-444)
-- _P:_ [To Do List App - Goal 64](../../modules/To-Do-List-App--Goal-64)
-- _P:_ [Testing Snapshot - Goal 446](../../modules/Testing-Snapshot--Goal-446)
-- _P:_ [Migrations Snapshot - Goal 447](../../modules/Migrations-Snapshot--Goal-447)
-- _P:_ [Mmmarkdown - Goal 387](../../modules/Mmmarkdown--Goal-387)
-- _P:_ [Pizza Restaurant: Relational DB With CRUD API - Goal 98](../../modules/Pizza-Restaurant-Relational-DB-Schema-With-CRUD-API--Goal-98)
-- _P:_ [Timeoff: Approver Epic - Goal 181](../../modules/Timeoff-Approver-Epic--Goal-181)
-- _P:_ [Roam - Goal 330](../../modules/Roam--Goal-330)
-- _P:_ [Your Portfolio Site - Goal 356](../../modules/Your-Portfolio-Site--Goal-356)
-- _P:_ [Trossello Snapshot: Members and Teams Epic - Goal 232](../../modules/Trosello-Snapshot-Members-And-Teams-Epic--Goal-232)
-- _P:_ [Debugging Snapshot - Goal 448](../../modules/Debugging-Snapshot--Goal-448)
-- _P:_ [Refactoring Snapshot - Goal 449](../../modules/Refactoring-Snapshot--Goal-449)
+- _P:_ [CRUD Mutability](/Modules/CRUD-Mutability)
+- _P:_ [Simple Book Store](/Modules/Simple-Book-Store)
+- _P:_ [Auth Snapshot (Simple)](/Modules/Auth-Snapshot-Simple)
+- _P:_ [To Do List App](/Modules/To-Do-List-App)
+- _P:_ [Testing Snapshot](/Modules/Testing-Snapshot)
+- _P:_ [Migrations Snapshot](/Modules/Migrations-Snapshot)
+- _P:_ [Mmmarkdown](/Modules/Mmmarkdown)
+- _P:_ [Pizza Restaurant: Relational DB With CRUD API](/Modules/Pizza-Restaurant)
+- _P:_ [Timeoff: Approver Epic](/Modules/Timeoff)
+- _P:_ [Roam](/Modules/Roam)
+- _P:_ [Your Portfolio Site](/Modules/Your-Portfolio-Site)
+- _P:_ [Trossello Snapshot: Members and Teams Epic](/Modules/Trosello-Snapshot)
+- _P:_ [Debugging Snapshot](/Modules/Debugging-Snapshot)
+- _P:_ [Refactoring Snapshot](/Modules/Refactoring-Snapshot)
 
 ## Video Library
 
-Please look at the [Phase 3 Playlist](https://www.youtube.com/playlist?list=PLcSbxZVkmW_gHJIVLffRGJ4FRXy9LNabc) on YouTube. The playlist is constantly updated with new videos, which may be relevant to the work you are doing.
+Please look at the [Practice Phase Playlist](https://www.youtube.com/playlist?list=PLcSbxZVkmW_gHJIVLffRGJ4FRXy9LNabc) on YouTube. The playlist is constantly updated with new videos, which may be relevant to the work you are doing.
 
 ## Recommended Roadmap 🛣
 
-### [Week 1] Goal: CRUD Mutability Goal(383)
+### [Week 1] Project: CRUD Mutability
 
 #### Concepts to focus on
 - Programming Naming Conventions
@@ -88,7 +88,7 @@ Please look at the [Phase 3 Playlist](https://www.youtube.com/playlist?list=PLcS
 - [MVC for Single Page Apps](https://www.youtube.com/watch?v=lJYTnhqh3-U&index=8&list=PLcSbxZVkmW_gHJIVLffRGJ4FRXy9LNabc)
 - [MVC Pattern Explained](https://www.youtube.com/watch?v=dZCiCIVfe3s)
 
-### [Week 2] Goal: Authentication app(Goal 444)
+### [Week 2] Project: Authentication app
 
 #### Concepts to focus on
 - Programming Naming Conventions
@@ -107,7 +107,7 @@ Please look at the [Phase 3 Playlist](https://www.youtube.com/playlist?list=PLcS
 - [Add Authorization to an Express Server](https://www.youtube.com/watch?v=GLgNR1A0h_E&list=PLcSbxZVkmW_gHJIVLffRGJ4FRXy9LNabc&index=5)
 
 
-### [Week 3] Goal: Simple Book Store(Goal #69)
+### [Week 3] Project: Simple Book Store
 
 #### Concepts to focus on
 - Creating a configuration for your app using environment variables (test, development, production)
@@ -123,7 +123,7 @@ Please look at the [Phase 3 Playlist](https://www.youtube.com/playlist?list=PLcS
 - [Method Override in an Express Server](https://www.youtube.com/watch?v=RuvqCpY_Q50&index=10&list=PLcSbxZVkmW_gHJIVLffRGJ4FRXy9LNabc)
 - [Error Handling in an Express Server](https://www.youtube.com/watch?v=ngkqRXklna8&list=PLcSbxZVkmW_gHJIVLffRGJ4FRXy9LNabc&index=12)
 
-### [Week 4] - Goal: Testing Snapshot 446
+### [Week 4] - Project: Testing Snapshot
 
 #### Concepts to focus on
 - Understanding the difference between unit vs integration vs end-to-end testing
