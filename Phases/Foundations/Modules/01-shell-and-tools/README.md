@@ -15,7 +15,7 @@
   - Debugging
   - Version Control
 
-### Console (choose one)
+### Console (choose one platform)
 
 #### Treehouse
   [Treehouse "Console Foundations"](https://teamtreehouse.com/library/console-foundations)
@@ -42,7 +42,7 @@
   - Piping
   - Permissions, Redirection and Piping Exercise (__SKIP__: Part I (Permissions and links))
 
-### Git and Github (choose one)
+### Git and Github (choose one platform)
 
 #### Code Academy and Github
   [Code "Academy Learn Git"](https://www.codecademy.com/learn/learn-git)

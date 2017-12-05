@@ -6,7 +6,7 @@
 
 - [VSCode and ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-### JavaScript Basics (choose one)
+### JavaScript Basics (choose one platform)
 
 #### Udacity
   - [Udacity "Intro to JavaScript"](https://classroom.udacity.com/courses/ud803)
