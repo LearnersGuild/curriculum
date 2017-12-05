@@ -1,7 +1,7 @@
 # Module 4: Asynchronous Flow
 ## Online Curriculum
 
-### VSCode and Node (choose one platvorm)
+### VSCode and Node (choose one platform)
 
   #### Udacity
   - [Udacity "JavaScript Promises"](https://classroom.udacity.com/courses/ud898)
