@@ -57,6 +57,12 @@
       - Hoisting
       - Functions Exercises
 
+  - [Rithm School "JavaScript Iterators"](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
+    - forEach, Map, Filter
+    - Reduce
+    - Additional Array Methods (some, every, find)
+    - Iterators Exercises
+
   - [Rithm School "JavaScript Errors"](https://www.rithmschool.com/courses/intermediate-javascript/javascript-debugging-errors)
     - This page only (Don't continue with "Debugging with the Sources Tab")
 
