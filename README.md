@@ -28,3 +28,4 @@ For recordings of lectures, office hours, and other informational sessions, visi
 #### Other Resources
 - [Guild membership guide](https://guide.learnersguild.org)
 - [Echo](https://echo.learnersguild.org)
+- [Old Curriculum](https://github.com/LearnersGuild/curriculum-app)
