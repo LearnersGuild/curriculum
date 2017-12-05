@@ -62,7 +62,7 @@ Use the following steps to add the phase calendar to your Google Calendar:
 - _P:_ [Pizza Restaurant (Relational DB With CRUD API)](Modules/Pizza-Restaurant/README.md)
 - _P:_ [Timeoff (Approver Epic)](Modules/Timeoff/README.md)
 - _P:_ [Roam](Modules/Roam/README.md)
-- _P:_ [Snapshot: Trosello (Members and Teams Epic)](Modules/Snapshot-Trosello/README.md)
+- _P:_ [Snapshot: Trossello (Members and Teams Epic)](Modules/Snapshot-Trossello/README.md)
 - _P:_ [Snapshot: Debugging](Modules/Snapshot-Debugging/README.md)
 - _P:_ [Snapshot: Refactoring](Modules/Snapshot-Refactoring/README.md)
 - _P:_ [Your Portfolio Site](Modules/Your-Portfolio-Site/README.md)
