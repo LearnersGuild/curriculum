@@ -37,13 +37,12 @@ In this phase you will learn...
 - Weekly 1:1 checkin with an SEP.
 - End of week project demo.
 
-## Guidelines for learners who want to work on their own project
-- A learner should have a plan for their project at the beginning of each week. This plan indicates the work that they intend to do that week, and the names of the learners who are planning to be in the team.
-- Once they have this plan in place they can start working on the project.
-- During their 1:1 check-in with an SEP, the SEP will follow up with each member of the team to understand their role, and the scope of work that they are planning to engage in during the week.
-- All stories/issues must be tracked in Github's project board, to give an SEP a clear idea of the progress each week.
-- At the end of the week, the learner will demo the work done by them during the week.
-- If the project extends beyond a single week, the same process is applied in the following week.
+## Working on personal projects
+- You're required to have a plan for your work at the beginning of each week. This plan should include a high level description of the work being done as well as specific criteria for successful completion.
+- During your weekly 1:1 check-ins, an SEP will review your work plan with you and offer feedback/guidance as needed.
+- All stories/issues for your software project must be tracked in a public project tracker (e.g. Github Projects), allowing someone to quickly understand your project's progress.
+- At the end of the week, you'll be expected to demo the work you've completed in a group.
+- Multi-week projects are allowed, but there must be clear progress being made every week. Your commit history _will_ be reviewed, so be prepared to share details about the code you've committed.
 
 
 ## Modules
