@@ -6,14 +6,14 @@ There are a lot of different resources available to you in these modules. Experi
 
 | Resource            | URL                                  | License needed? | Format       | Exercises    |
 | ------------------- | ------------------------------------ | --------------- | ------------ | ------------ |
-| Treehouse           | [https://teamtreehouse.com/]         | yes             | Video        | Interactive  |
-| Khan Academy        | [https://www.khanacademy.org/]       | no              | Video / Text | Interactive  |
-| Udacity             | [https://classroom.udacity.com/]     | no              | Video        | Video / Text |
-| Codecademy          | [https://www.codecademy.com/]        | no              | Text         | Interactive  |
-| SQL Zoo             | [http://sqlzoo.net/]                 | no              | Text         | Interactive  |
-| SQL Bolt            | [https://sqlbolt.com/]               | no              | Text         | Interactive  |
-| Rithm School        | [https://www.rithmschool.com/]       | no              | Text         | Text         |
-| Eloquent JavaScript | [http://eloquentjavascript.net/]     | no              | Text         | Text         |
+| Treehouse           | https://teamtreehouse.com/         | yes             | Video        | Interactive  |
+| Khan Academy        | https://www.khanacademy.org/       | no              | Video / Text | Interactive  |
+| Udacity             | https://classroom.udacity.com/     | no              | Video        | Video / Text |
+| Codecademy          | https://www.codecademy.com/        | no              | Text         | Interactive  |
+| SQL Zoo             | http://sqlzoo.net/                 | no              | Text         | Interactive  |
+| SQL Bolt            | https://sqlbolt.com/               | no              | Text         | Interactive  |
+| Rithm School        | https://www.rithmschool.com/       | no              | Text         | Text         |
+| Eloquent JavaScript | http://eloquentjavascript.net/     | no              | Text         | Text         |
 
 ## Modules
 
