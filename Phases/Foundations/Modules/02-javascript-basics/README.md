@@ -9,7 +9,7 @@
 ### JavaScript Basics (choose one)
 
 #### Udacity
-  [Udacity "Intro to JavaScript"](https://classroom.udacity.com/courses/ud803)
+  - [Udacity "Intro to JavaScript"](https://classroom.udacity.com/courses/ud803)
     - What is JavaScript
     - Conditionals
     - Loops
