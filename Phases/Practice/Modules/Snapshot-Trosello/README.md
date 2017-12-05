@@ -23,8 +23,6 @@ This goal will likely be within your ZPD if you...
 
 Starting at commit [`d177114`][starting-commit], implement **board + card members** in the [Trossello][trossello] app.
 
-If you are **new to snapshot goals or to the Trossello app**, you may want to try a slightly easier one first, like the [Labels Epic][labels-epic]. Read the [Context](#context) section to learn whether this project will be right for you.
-
 To complete this goal, you'll be mimicking features of the real Trello app. To do this, you'll need to use good reverse-engineering skills:
 
 - Try out the feature for yourself
@@ -104,7 +102,7 @@ You will have to orient yourself to the codebase, its idioms and architecture, a
 
 As a professional web developer, you will rarely be building a project from the ground up, touching only code that _you_ have written. More often than not, you'll be contributing to a large, shared codebase with lots of legacy code. Not everything will make sense. You can't just start writing code any way you want - you have to learn how to integrate with the existing code.
 
-_If you've never done a snapshot goal before_, this one may not be the best place to start as it is significantly challenge. You may want to try a slightly easier one first, like the [Trossello Snapshot - Labels Epic][labels-epic].
+_If you've never done a snapshot goal before_, this one may not be the best place to start as it is significantly challenge. You may want to try a slightly easier one first.
 
 ## Specifications
 
@@ -160,7 +158,6 @@ Implement the "teams" feature from Trello.
 [react]: https://facebook.github.io/react/
 [knex]: http://knexjs.org/
 
-[labels-epic]: {{ site.url }}{% link _goals/226-Trossello_Snapshot-Labels_Epic.md %}
 [trossello]: https://github.com/GuildCrafts/Trossello
 [starting-commit]: https://github.com/GuildCrafts/Trossello/commit/d177114b033eb950e6fdd4d620815b74b5f90eaa
 [example-pr]: https://github.com/GuildCrafts/Trossello/pull/106/
