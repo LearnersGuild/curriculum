@@ -66,3 +66,18 @@ Distilled, the process looks like this:
 3. When the branch is ready to be merged, open a pull request from your branch to the `master` branch
 4. Have at least one another partner review and approve of the changes
 5. When the changes are approved, merge the pull request
+
+## Modules
+
+Each module should have these sub headings
+
+- Skills
+- Suggested Search Terms
+- Glossary of Terms
+- Suggested Resources
+  - Reading
+  - Watching
+- Exercises
+
+### Exercises
+- If you are creating an exercise yourself, make sure the exercise lives in a markdown file inside the `./exercises` folder.

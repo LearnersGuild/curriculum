@@ -1,0 +1,17 @@
+# Practice Modules
+
+* [Modules](/Phases/Practice/Modules)
+  * [CRUD Mutability](/Phases/Practice/Modules/CRUD-Mutability)
+  * [Simple Book Store](/Phases/Practice/Modules/Simple-Book-Store)
+  * [Snapshot: Auth](/Phases/Practice/Modules/Snapshot-Auth)
+  * [To Do List](/Phases/Practice/Modules/To-Do-List)
+  * [Snapshot: Testing](/Phases/Practice/Modules/Snapshot-Testing)
+  * [Snapshot: Migrations](/Phases/Practice/Modules/Snapshot-Migrations)
+  * [Mmmarkdown](/Phases/Practice/Modules/Mmmarkdown)
+  * [Pizza Restaurant (Relational DB w/ CRUD API)](/Phases/Practice/Modules/Pizza-Restaurant)
+  * [Timeoff (Approver Epic)](/Phases/Practice/Modules/Timeoff)
+  * [Roam](/Phases/Practice/Modules/Roam)
+  * [Snapshot: Trosello (Members and Teams Epic)](/Phases/Practice/Modules/Snapshot-Trosello)
+  * [Snapshot: Debugging](/Phases/Practice/Modules/Snapshot-Debugging)
+  * [Snapshot: Refactoring](/Phases/Practice/Modules/Snapshot-Refactoring)
+  * [Your Portfolio Site](/Phases/Practice/Modules/Your-Portfolio-Site)
