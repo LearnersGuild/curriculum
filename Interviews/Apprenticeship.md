@@ -1,6 +1,6 @@
 # Apprenticeship Interview
 
-In the Apprenticeship (Area 45) interview, you will be expected to demonstrate your ability to combine the skills you've acquired in the Foundations and Practice phases to build a full-stack web application.
+In the Apprenticeship interview, you will be expected to demonstrate your ability to combine the skills you've acquired in the Foundations and Practice phases to build a full-stack web application.
 
 ### Skills Evaluated
 
