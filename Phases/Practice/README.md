@@ -54,7 +54,7 @@ Use the following steps to add the phase calendar to your Google Calendar:
 
 - _P:_ [CRUD Mutability](Modules/CRUD-Mutability/README.md)
 - _P:_ [Simple Book Store](Modules/Simple-Book-Store/README.md)
-- _P:_ [Snapshot: Auth](Modules/Auth-Snapshot-Simple/README.md)
+- _P:_ [Snapshot: Auth](Modules/Snapshot-Auth/README.md)
 - _P:_ [To Do List](Modules/To-Do-List/README.md)
 - _P:_ [Snapshot: Testing](Modules/Snapshot-Testing/README.md)
 - _P:_ [Snapshot: Migrations](Modules/Snapshot-Migrations/README.md)

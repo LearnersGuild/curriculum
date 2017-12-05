@@ -1,4 +1,4 @@
-# Timeoff Snapshot [Approver Epic] (181)
+# Timeoff Snapshot (Approver Epic)
 
 ## Skills
 

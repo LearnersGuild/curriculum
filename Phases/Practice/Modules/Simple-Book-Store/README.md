@@ -1,4 +1,4 @@
-# Simple Book Store (69)
+# Simple Book Store
 
 ## Skills
 

@@ -1,4 +1,4 @@
-# Trossello Snapshot: Members & Teams Epic (232)
+# Trossello Snapshot: Members & Teams Epic
 
 ## Skills
 
