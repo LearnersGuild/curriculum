@@ -1,9 +1,6 @@
 # Summary
 
 * [Introduction](/README.md)
-* [Interviews](/Interviews/README.md)
-  * [Practice Interview](/Interviews/Practice.md)
-  * [Apprenticeship Interview](/Interviews/Apprenticeship.md)
 * [Phases](/Phases/README.md)
   * [Foundations](/Phases/Foundations/README.md)
     * [Shell and Tools](/Phases/Foundations/Modules/01-shell-and-tools/README.md)
@@ -35,3 +32,6 @@
     * [Job Search and Networking](/Phases/Apprenticeship/Modules/Job-Search-and-Networking/README.md)
     * [Methodically Approaching Technical Interviews](/Phases/Apprenticeship/Modules/Technical-Interviews/README.md)
     * [System Design Interviews](/Phases/Apprenticeship/Modules/System-Design-Interviews/README.md)
+  * [Interviews](/Interviews/README.md)
+    * [Practice Interview](/Interviews/Practice.md)
+    * [Apprenticeship Interview](/Interviews/Apprenticeship.md)
