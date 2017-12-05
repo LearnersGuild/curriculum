@@ -26,6 +26,7 @@
     "rimraf": "^2.4.3"
   },
   "dependencies": {
-    "gitbook-plugin-embed-pdf": "^1.0.1"
+    "gitbook-plugin-embed-pdf": "^1.0.1",
+    "gitbook-plugin-toggle-chapters": "0.0.3"
   }
 }
