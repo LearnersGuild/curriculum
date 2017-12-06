@@ -32,3 +32,7 @@ In this phase you will learn…
 * [SQL](/Phases/Foundations/Modules/07-sql/README.md)
 * [jQuery and DOM Manipulation](/Phases/Foundations/Modules/08-jquery-and-dom-manipulation/README.md)
 * [AJAX](/Phases/Foundations/Modules/09-ajax/README.md)
+
+## Preparing for the Phase Interview
+
+For details about the entrance interview for the Practice phase, see [Practice Phase Interview](/Phases/Practice/Interview.md).

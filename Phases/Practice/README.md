@@ -157,3 +157,7 @@ Please look at the [Practice Phase Playlist](https://www.youtube.com/playlist?li
   - Sequencing and organizing work
   - Collaborating in parallel
   - Finding the minimum viable product (MVP)
+
+  ## Preparing for the Entrance Interview
+
+  For details about the entrance interview for the Practice phase, see [Practice Phase Interview](/Phases/Practice/Interview.md).

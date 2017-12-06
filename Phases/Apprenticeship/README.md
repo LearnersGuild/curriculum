@@ -50,3 +50,7 @@ In this phase you will learn...
 - _P:_ [Job Search and Networking](/Phases/Apprenticeship/Modules/Job-Search-and-Networking)
 - _P:_ [Methodically Approaching Technical Interviews](/Phases/Apprenticeship/Modules/Technical-Interviews)
 - _P:_ [System Design Interviews](/Phases/Apprenticeship/Modules/System-Design-Interviews)
+
+## Preparing for the Entrance Interview
+
+For details about the entrance interview for the Apprenticeship phase, see [Apprenticeship Phase Interview](/Phases/Apprenticeship/Interview.md).

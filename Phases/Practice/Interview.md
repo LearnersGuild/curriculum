@@ -61,3 +61,7 @@ The following skills are _important_ but will not be _explicitly_ a part of the 
 - Debugging (Beginner)
 
   - example: use Chrome developer tools inspect the DOM
+
+## Preparing for the Phase Interview
+
+For details about the entrance interview for the Apprenticeship phase, see [Apprenticeship Phase Interview](/Phases/Apprenticeship/Interview.md).
