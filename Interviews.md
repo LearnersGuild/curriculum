@@ -10,7 +10,7 @@ The outcome of the interview is based on your completion of a set of detailed sp
 
 ### Scheduling your interview
 
-To schedule a phase interview, send a request to the Phase Lead for the phase you want to interview for.
+To schedule a phase interview, send a request to the Phase Lead for the phase you want to interview into.
 
 _The ability to self-schedule your phase interview is coming soon._
 
@@ -43,7 +43,7 @@ _The ability to self-schedule your phase interview is coming soon._
 
   Any 9.x version of Postgres or greater will work for the interview challenges.
 
-- **Database Client**
+- **Database Client**  
   It's also likely that you'll find it useful to connect to and explore the challenge database using a GUI tool.
 
   Here are some popular options:
