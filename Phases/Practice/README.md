@@ -23,19 +23,6 @@ In this phase you will learn…
 - How to make use of modern tools to improve code quality and your coding experience
 - How to understand, break down and solve the algorithm-based challenges that are typically used in interview settings.
 
-## Engagement Expectations
-
-Required:
-
-- Attend daily standup at 9am.
-- Have a weekly 1:1 checkin with an SEP.
-- Share what you've accomplished and learned in the end-of-week project demos.
-
-Optional:
-
-- Attend lectures and office hours offered throughout the week
-- Participate in the daily algorithm challenge group
-
 *Consult the [Learner Guide](https://guide.learnersguild.org/) for a full list of Learner Expectations*
 
 ### Phase Calendar 🗓

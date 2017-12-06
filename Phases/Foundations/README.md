@@ -21,13 +21,6 @@ In this phase you will learn…
 - how to create static HTML & CSS “pages” from mockups and wireframes
 - how to create a basic Express HTTP server on Node
 
-
-## Engagement Expectations
-
-- Daily stand-up (9am)
-- Weekly 1:1 with an SEP
-- Weekly Demo session to show off what you accomplished for the week (Friday at 4:30 pm)
-
 ## Modules
 
 * [Shell and Tools](/Phases/Foundations/Modules/01-shell-and-tools/README.md)

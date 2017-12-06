@@ -6,6 +6,23 @@ The arc of our learning program follows your growth as a web developer and consi
 
 ---
 
+#### Engagement Expectations
+
+Remember that everyone is expected to meet the following minimum set of engagement requirements while in the learning program.
+
+The following is required:
+
+- Attend daily standup at 9am.
+- Have a weekly 1:1 check-in with an SEP.
+- Share what you've accomplished and learned at the end of the week.
+
+You're also highly encouraged (but not required) to attend the following:
+
+- Lectures and office hours offered throughout the week
+- Daily algorithm challenge group ("Algonauts")
+
+---
+
 #### Phases & Phase Interviews
 - [Phases](/Phases)
 - [Phase Interviews](/Interviews)
