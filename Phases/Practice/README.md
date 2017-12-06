@@ -158,6 +158,10 @@ Please look at the [Practice Phase Playlist](https://www.youtube.com/playlist?li
   - Collaborating in parallel
   - Finding the minimum viable product (MVP)
 
-  ## Preparing for the Entrance Interview
+## Preparing for the Apprenticeship Interview
 
-  For details about the entrance interview for the Practice phase, see [Practice Phase Interview](/Phases/Practice/Interview.md).
+For details about the entrance interview for the Apprenticeship phase, see [Apprenticeship Phase Interview](/Phases/Apprenticeship/Interview.md).
+
+## Other Resources
+
+- [Practice Phase Calendar](https://calendar.google.com/calendar/embed?src=learnersguild.org_cp10fqmfm51bcojt2n6jscnjlk%40group.calendar.google.com&ctz=America/Los_Angeles)

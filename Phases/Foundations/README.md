@@ -33,6 +33,10 @@ In this phase you will learn…
 * [jQuery and DOM Manipulation](/Phases/Foundations/Modules/08-jquery-and-dom-manipulation/README.md)
 * [AJAX](/Phases/Foundations/Modules/09-ajax/README.md)
 
-## Preparing for the Phase Interview
+## Preparing for the Practice Phase Interview
 
 For details about the entrance interview for the Practice phase, see [Practice Phase Interview](/Phases/Practice/Interview.md).
+
+## Other Resources
+
+- [Foundations Phase Calendar](https://calendar.google.com/calendar/embed?src=learnersguild.org_mq5c40phqs9bahdln84k1ub8s4%40group.calendar.google.com&ctz=America%2FLos_Angeles)

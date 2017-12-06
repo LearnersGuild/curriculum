@@ -24,8 +24,10 @@ You're also highly encouraged (but not required) to attend the following:
 ---
 
 #### Phases & Phase Interviews
-- [Phases](/Phases)
-- [Phase Interviews](/Interviews)
+
+See the [Phases](/Phases) section for the curriculum for each phase.
+
+You'll find details about the phase interview process in the [Interviews](/Interviews) section.Â
 
 ---
 
