@@ -1,6 +1,6 @@
 # Phase Interviews
 
-Phase Interviews are the process by which you to advance from one phase to the next. All phase interviews consist of a 50-minute in-person live coding challenge that you will be required to complete on your development machine. The interview challenge is an opportunity to demonstrate your comprehension of the skills you've gained in your current phase and your readiness to begin work in the next phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete small exercises or to complete the implementation of an existing application.
+Phase Interviews are the process by which you to advance from one phase to the next. All phase interviews are scheduled in 90-minute blocks and consist primarily of a live coding exercise for which you will have **75 minutes** to complete. You will be allowed to use your own development machine; **_be sure to complete the required setup beforehand._** Everything else necessary for the interview will be provided by your interviewer. The interview challenge is an opportunity to demonstrate, in real time, your comprehension of the skills you've gained in your current phase and your readiness to begin work in the next phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete small exercises or to complete the implementation of a existing full-stack web application.
 
 The outcome of the interview is based on the completion of a set of detailed specifications provided to you at the start of the interview. To pass the interview, you'll need to complete 80% or more of these specifications.
 
@@ -10,10 +10,9 @@ The outcome of the interview is based on the completion of a set of detailed spe
 
 ### Scheduling your interview
 
-To schedule a phase interview, use the correct scheduling link provided for the interview you need to take:
+To schedule a phase interview, send a request to the Phase Lead for the phase you want to interview for.
 
-- [Schedule Practice Phase Interview](http://)
-- [Schedule Apprenticeship Phase Interview](http://)
+_The ability to self-schedule your phase interview is coming soon._
 
 ---
 
@@ -55,8 +54,8 @@ To schedule a phase interview, use the correct scheduling link provided for the 
 
 For more details about what each phase interview covers and sample challenges, see the phase-specific interview pages:
 
-* [Practice](/Interviews/Practice.md)
-* [Apprenticeship](/Interviews/Apprenticeship.md)
+* [Practice Phase Interview](/Phases/Practice/Interview.md)
+* [Apprenticeship](/Phases/Apprenticeship/Interview.md)
 
 ---
 
@@ -68,7 +67,9 @@ During the interview, you will be allowed to use the internet to search for refe
 
 You should not expect the same level of in-depth support that would ordinarily be available on non-interview projects. For example, it is unlikely that a SEP will "pair program" with you or do any kind of "cognitive apprenticeship." In most cases, the SEP will not even touch the keyboard.
 
-Your interviewr might ask you questions about your process to help you get unstuck if they deem it helpful, but they cannot otherwise assist you in solving the challenge.
+Your interviewer might ask you questions about your process to help you get unstuck if they deem it helpful, but they cannot otherwise assist you in solving the challenge.
+
+You can request that your interview be recorded. This recording can then be made available after the interview for review with an SEP.
 
 ---
 
@@ -92,7 +93,7 @@ Finally, we recommend the following to lessen the effects of test anxiety.
 
   * Study the relevant skills and take notes for yourself.
 
-  * Complete the practice version of the challenge. Time yourself and possibly find a buddy or coach to sit and observe you while you perform the self-assessment. If you find that you've run out of time (50 minutes) and still have lots of specs unfinished, it should serve as a signal that you don't yet understand the concepts and tools well enough to make the most of your time in the next phase. Use this feedback to focus your study & practice on the areas you struggled with before trying the self-assessment again (and eventually, the real interview challenge).
+  * Complete the practice version of the challenge. Time yourself and possibly find a buddy or coach to sit and observe you while you perform the self-assessment. If you find that you've run out of time (75 minutes) and still have lots of specs unfinished, it should serve as a signal that you don't yet understand the concepts and tools well enough to make the most of your time in the next phase. Use this feedback to focus your study & practice on the areas you struggled with before trying the self-assessment again (and eventually, the real interview challenge).
 
   * When practicing (and really, when writing any code at all), consider the following:
 
