@@ -44,6 +44,13 @@ To schedule a phase interview, use the correct scheduling link provided for the 
 
   Any 9.x version of Postgres or greater will work for the interview challenges.
 
+- **Database Client**
+  It's also likely that you'll find it useful to connect to and explore the challenge database using a GUI tool.
+
+  Here are some popular options:
+  - [Postico](https://eggerapps.at/postico)
+  - [DBVisualizer](https://www.dbvis.com/download)
+
 #### Live coding practice
 
 For more details about what each phase interview covers and sample challenges, see the phase-specific interview pages:
