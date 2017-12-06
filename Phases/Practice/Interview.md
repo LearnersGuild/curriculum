@@ -62,6 +62,9 @@ The following skills are _important_ but will not be _explicitly_ a part of the 
 
   - example: use Chrome developer tools inspect the DOM
 
-## Preparing for the Phase Interview
+  #### Sample challenge
 
-For details about the entrance interview for the Apprenticeship phase, see [Apprenticeship Phase Interview](/Phases/Apprenticeship/Interview.md).
+  A sample version of the challenge is provided for each phase interview level to help you to become familiar with the challenge format and the topics covered. It's highly recommended that you time yourself (or recruit a practice interviewer to time you) while you complete the challenge.
+
+  The sample challenge for the Practice phase is located at:
+  [https://github.com/LearnersGuild/sample-challenge-practice](https://github.com/LearnersGuild/sample-challenge-practice).
