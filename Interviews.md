@@ -18,7 +18,7 @@ _The ability to self-schedule your phase interview is coming soon._
 
 ### Preparing for the interview
 
-#### System Requirements
+#### Setting up your computer
 
 - **Node.js**
   All phase interviews require you to have a specific version of node.js installed on your machine.
@@ -43,16 +43,16 @@ _The ability to self-schedule your phase interview is coming soon._
 
   Any 9.x version of Postgres or greater will work for the interview challenges.
 
-- **Database Client**  
+- **Database Client**
   It's also likely that you'll find it useful to connect to and explore the challenge database using a GUI tool.
 
   Here are some popular options:
   - [Postico](https://eggerapps.at/postico)
   - [DBVisualizer](https://www.dbvis.com/download)
 
-#### Live coding practice
+#### Using the sample challenges
 
-For more details about what each phase interview covers and sample challenges, see the phase-specific interview pages:
+A sample version of the interview challenge for each phase is available for practice. It is _highly_ encouraged that you do timed practice with these sample versions to familiarize yourself with the challenge format and the topics covered. For more details about what each phase interview covers and links to the sample challenges, see the phase-specific interview pages:
 
 * [Practice Phase Interview](/Phases/Practice/Interview.md)
 * [Apprenticeship](/Phases/Apprenticeship/Interview.md)
