@@ -2,9 +2,9 @@
 
 Phase Interviews are the process by which you advance from one phase to the next. All phase interviews are scheduled in 90-minute blocks and consist primarily of a live coding exercise for which you will have **75 minutes** to complete. You will be allowed to use your own development machine; **_be sure to complete the required setup beforehand._** Everything else necessary for the interview will be provided by your interviewer. The interview challenge is an opportunity to demonstrate, in real time, your comprehension of the skills you've gained in your current phase and your readiness to begin work in the next phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete small exercises or to complete the implementation of an existing full-stack web application.
 
-The outcome of the interview is based on the completion of a set of detailed specifications provided to you at the start of the interview. To pass the interview, you'll need to complete 80% or more of these specifications.
+The outcome of the interview is based on your completion of a set of detailed specifications provided to you at the beginning of the challenge. To pass the interview, you'll need to complete 80% or more of these specifications.
 
-**Some lightweight setup is required.** You should complete this setup **before** your scheduled interview time. **_If you have not completed the setup beforehand and have to do it during the interview, your time will not be extended._** A failure to complete this setup beforehand will likely negatively impact your interview outcome.
+**Again, some lightweight setup is required.** You should complete this setup **before** your scheduled interview time. **_If you have not completed the setup beforehand and have to do it during the interview, your time will not be extended._** A failure to complete this setup beforehand will likely negatively impact your interview outcome.
 
 ---
 
