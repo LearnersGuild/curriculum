@@ -23,7 +23,7 @@
   - Project Wrap-Up
   - Fetch Outro
 
-  ##### Rithm School
+  #### Rithm School
   [Rithm School "Intermediate JavaScript Part II"](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
   - 5 AJAX with jQuery
     - Introduction to XHR and AJAX (includes fetch)
