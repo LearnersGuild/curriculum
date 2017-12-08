@@ -1,6 +1,6 @@
 # Apprenticeship Interview
 
-In the Apprenticeship (Area 45) interview, you will be expected to demonstrate your ability to combine the skills you've acquired in the Foundations and Practice phases to build a full-stack web application.
+In the Apprenticeship interview, you will be expected to demonstrate your ability to combine the skills you've acquired in the Foundations and Practice phases to build a full-stack web application.
 
 ### Skills Evaluated
 
@@ -67,3 +67,10 @@ The following skills are _important_ but will not _explicitly_ be a part of the 
   * example: deploy a web app to Heroku
 
 * Code Reviews
+
+#### Sample challenge
+
+A sample version of the challenge is provided for each phase interview level to help you to become familiar with the challenge format and the topics covered. It's highly recommended that you time yourself (or recruit a practice interviewer to time you) while you complete the challenge.
+
+The sample challenge for the Apprenticeship phase is located at:
+[https://github.com/LearnersGuild/sample-challenge-apprenticeship](https://github.com/LearnersGuild/sample-challenge-apprenticeship).

@@ -21,9 +21,10 @@ In this phase you will learn…
 - how to create static HTML & CSS “pages” from mockups and wireframes
 - how to create a basic Express HTTP server on Node
 
+## Preparing for the Practice Phase Interview
 
-## Engagement Expectations
+For details about the entrance interview for the Practice phase, see [Practice Phase Interview](/Phases/Practice/Interview.md).
 
-- Daily stand-up (9am)
-- Weekly 1:1 with an SEP
-- Weekly Demo session to show off what you accomplished for the week (Friday at 4:30 pm)
+## Other Resources
+
+- [Foundations Phase Calendar](https://calendar.google.com/calendar/embed?src=learnersguild.org_mq5c40phqs9bahdln84k1ub8s4%40group.calendar.google.com&ctz=America%2FLos_Angeles)

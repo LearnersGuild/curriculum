@@ -61,3 +61,10 @@ The following skills are _important_ but will not be _explicitly_ a part of the 
 - Debugging (Beginner)
 
   - example: use Chrome developer tools inspect the DOM
+
+  #### Sample challenge
+
+  A sample version of the challenge is provided for each phase interview level to help you to become familiar with the challenge format and the topics covered. It's highly recommended that you time yourself (or recruit a practice interviewer to time you) while you complete the challenge.
+
+  The sample challenge for the Practice phase is located at:
+  [https://github.com/LearnersGuild/sample-challenge-practice](https://github.com/LearnersGuild/sample-challenge-practice).

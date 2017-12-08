@@ -1,12 +1,24 @@
 # Apprenticeship Phase ("Area 45")
 
-## Description
+In the Apprentieship phase, you'll have the opportunity to self-direct your weekly project work. Some examples of the kinds of work that are acceptable are included below with some guidelines. Apart from continued support in helping you develop stellar technical skills, career prep resources are also made available to you in the Apprenticeship phase. These include (but are not limited to) interview prep support, job placement support and general career development guidance. Learners are responsible for working to become fully employed by the end of their time at the Guild. Since each learner’s application and job search strategy may vary, learners are responsible for keeping track of their job-hunt progress.
 
-The software field -- and indeed, the world at large -- owes a great deal to the open source software community. Like most developers, members of Learners Guild benefit daily from the availability of countless freely available software tools and educational resources. We are committed to contributing to these efforts and resources as committers to (and even maintainers of) open source projects.
+#### Internal Guild Projects
 
-In the Apprentieship phase, SEPs and learners will collaborate on contributions to OSS projects and possibly on live, production systems like the LOS apps (echo, idm, etc.). SEPs will select projects and work with learners to identify appropriate issues to work on, and learners will be expected to submit pull requests to project maintainers. Learners who wish to work on their own projects may choose to do so, if they follow the guidelines listed in the section below.
+Some SEPs manage the development of live, complex systems. These include the Talent app, Echo, and other applications on the Learning Operating System (LOS) platform. You'll be welcome to join any of these development teams.
 
-Apart from helping you develop stellar technical skills, this phase also offers Career Prep. Career Prep supports learners with interview readiness, job placement support and overarching career development. Learners are responsible for working to become fully employed by the end of their time at the Guild. Since each learner’s application and job search strategy may vary, learners are responsible for keeping track of their job-hunt progress.
+#### Open Source Software (OSS)
+
+The software field -- and indeed, the world at large -- owes a great deal to the open source software community. Like most developers, members of Learners Guild benefit daily from the availability of countless freely available software tools and educational resources. We are committed to providing you with the support you need to make meaningful contributions to OSS projects.
+
+#### Personal Projects
+
+If you have an idea for an application that you're passionate about building, you're also encouraged to work on that in the Apprenticeship phase. You can work on a project solo or recruit a team of other developers and build it together. As always, every individual working on a personal project is **_required_** to produce a detailed plan of work at the beginning of the week. It will be reviewed by and SEP who will offer feedback on your work plan and check in on how your progress is going. Similarly, as in previous phases, you'll be requird to participate in demo time at the end of the week and to share what you accomplished that week with your squad.
+
+Other Notes:
+
+- Work plans should include a high level description of the work being done as well as specific criteria for successful completion.
+- All stories/issues for your software project must be tracked in a public project tracker (e.g. Github Projects), allowing someone to quickly understand your project's progress.
+- Multi-week projects are allowed, but there must be clear progress being made every week. Your commit history _will_ occasionally be reviewed, so be prepared to share details about the commits you've made to the repo.
 
 ## High Level Skills
 
@@ -32,23 +44,13 @@ In this phase you will learn...
   - Obtain one or more mentors
   - Find engineers who will advocate for you from the inside
 
-## Engagement Expectations
-- Daily standup at 9am.
-- Weekly 1:1 checkin with an SEP.
-- End of week project demo.
-
-## Guidelines for learners who want to work on their own project
-- A learner should have a plan for their project at the beginning of each week. This plan indicates the work that they intend to do that week, and the names of the learners who are planning to be in the team.
-- Once they have this plan in place they can start working on the project.
-- During their 1:1 check-in with an SEP, the SEP will follow up with each member of the team to understand their role, and the scope of work that they are planning to engage in during the week.
-- All stories/issues must be tracked in Github's project board, to give an SEP a clear idea of the progress each week.
-- At the end of the week, the learner will demo the work done by them during the week.
-- If the project extends beyond a single week, the same process is applied in the following week.
-
-
 ## Modules
 
-- _P:_ [Job Offers, Compensation, and Negotiation](../../modules/Job-Offers-Compensation-and-Negotiation)
-- _P:_ [Job Search and Networking](../../modules/Job-Search-and-Networking)
-- _P:_ [Methodically Approaching Technical Interviews](../../modules/Methodically-Approaching-Technical-Interviews)
-- _P:_ [System Design Interviews](../../modules/System-Design-Interviews)
+- _P:_ [Job Offers, Compensation, and Negotiation](/Phases/Apprenticeship/Modules/Job-Offers-Compensation-and-Negotiation)
+- _P:_ [Job Search and Networking](/Phases/Apprenticeship/Modules/Job-Search-and-Networking)
+- _P:_ [Methodically Approaching Technical Interviews](/Phases/Apprenticeship/Modules/Technical-Interviews)
+- _P:_ [System Design Interviews](/Phases/Apprenticeship/Modules/System-Design-Interviews)
+
+## Other Resources
+
+- [Apprenticeship Phase Calendar](https://calendar.google.com/calendar/embed?src=learnersguild.org_jdtd800osuihbp2u19pau0gbi4%40group.calendar.google.com&ctz=America%2FLos_Angeles)

@@ -6,9 +6,28 @@ The arc of our learning program follows your growth as a web developer and consi
 
 ---
 
+#### Engagement Expectations
+
+Remember that everyone is expected to meet the following minimum set of engagement requirements while in the learning program.
+
+The following is required:
+
+- Attend daily standup at 9am.
+- Have a weekly 1:1 check-in with an SEP.
+- Share what you've accomplished and learned at the end of the week.
+
+You're also highly encouraged (but not required) to attend the following:
+
+- Lectures and office hours offered throughout the week
+- Daily algorithm challenge group ("Algonauts")
+
+---
+
 #### Phases & Phase Interviews
-- [Phases](/Phases)
-- [Phase Interviews](/Interviews)
+
+See the [Phases](/Phases) section for the curriculum for each phase.
+
+You'll find details about the phase interview process in the [Interviews](/Interviews) section.Â
 
 ---
 
@@ -26,5 +45,6 @@ For recordings of lectures, office hours, and other informational sessions, visi
 ---
 
 #### Other Resources
-- [Guild membership guide](https://guide.learnersguild.org)
 - [Echo](https://echo.learnersguild.org)
+- [Guild membership guide](https://guide.learnersguild.org)
+- [Old curriculum](https://github.com/LearnersGuild/curriculum-app)

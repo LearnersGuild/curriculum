@@ -1,4 +1,4 @@
-# Foundation Modules
+# Foundations Modules
 
 ## Resources
 
@@ -19,7 +19,7 @@ There are a lot of different resources available to you in these modules. Experi
 
 * [Shell and Tools](/Phases/Foundations/Modules/01-shell-and-tools/README.md)
 * [JavaScript Basics](/Phases/Foundations/Modules/02-javascript-basics/README.md)
-* [Node Baisics](/Phases/Foundations/Modules/03-node-basics/README.md)
+* [Node Basics](/Phases/Foundations/Modules/03-node-basics/README.md)
 * [Async Flow](/Phases/Foundations/Modules/04-async-flow/README.md)
 * [HTML and CSS](/Phases/Foundations/Modules/05-html-and-css/README.md)
 * [HTTP and Express](/Phases/Foundations/Modules/06-http-and-express/README.md)
