@@ -5,13 +5,17 @@ This project should involve a postgres database, an express server, and pg-promi
 
 ## Setup
 
-1. Make sure you have postgres set up and running on your computer (). 
-2. Run this commands from the project directory (__NOTE__: If you already have a `mixed_drinks` database, it will get deleted by this commands!): 
+1. Make sure you have postgres set up and running on your computer: [Installation Guides](https://wiki.postgresql.org/wiki/Detailed_installation_guides). 
+2. Run this command from the project directory (__NOTE__: If you already have a `mixed_drinks` database, it will get deleted by this command!): 
 
 `npm db:init`
 
+## Database structure
+
+
+
 ## User Stories
-As a user, I want to be able to add an ingredient to the database, using a JSON POST to the route /api/ingredients/add   Example POST data:
+- As a user, I want to be able to add an ingredient to the database, using a JSON POST to the route /api/ingredients/add   Example POST data:
 
 { "ingredient_name": "tequila" }
 

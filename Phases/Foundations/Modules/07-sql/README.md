@@ -67,4 +67,4 @@
 
 ## Project 
 
-Mixed Drinks (add some aggregate)
+Mixed Drinks
