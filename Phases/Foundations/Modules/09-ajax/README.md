@@ -12,7 +12,7 @@
   - __SKIP__: AJAX and APIs
 
   #### Udacity
-  [Udacity "AJAX with Fetch"](https://classroom.udacity.com/courses/ud109/lessons/7cd5017a-cdce-463f-ba13-e53603fa83eb/concepts/34192e0d-a9ae-46af-ab01-d7a513e1097a  (uses non jQuery DOM manipulation….)
+  [Udacity "AJAX with Fetch"](https://classroom.udacity.com/courses/ud109/lessons/7cd5017a-cdce-463f-ba13-e53603fa83eb/concepts/34192e0d-a9ae-46af-ab01-d7a513e1097a)
   - Ajax call with the Fetch API
   - What is Fetch
   - Write the Fetch Request
