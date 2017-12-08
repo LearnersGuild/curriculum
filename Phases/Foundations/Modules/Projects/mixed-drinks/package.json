@@ -1,0 +1,11 @@
+{
+  "name": "mixed-drinks",
+  "version": "1.0.0",
+  "author": "Bonnie Schulkin",
+  "scripts": {
+    "db:create": "psql < db/schema.sql",
+    "db:seed": "psql < db/seed.sql",
+    "db:init": "npm run db:create && npm run db:seed"
+  },
+  "description": "Mixed Drinks Express and PostgreSQL project"
+}

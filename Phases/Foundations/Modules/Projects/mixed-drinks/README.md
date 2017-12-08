@@ -1,9 +1,16 @@
 # Mixed Drinks RESTful API
 
 ## General
-This project should involve a postgres database, an express server, and pg-promise. It is a RESTful API, and all responses should be in JSON format. The postgres db has already 
+This project should involve a postgres database, an express server, and pg-promise. It is a RESTful API, and all responses should be in JSON format. 
 
-User Stories
+## Setup
+
+1. Make sure you have postgres set up and running on your computer (). 
+2. Run this commands from the project directory (__NOTE__: If you already have a `mixed_drinks` database, it will get deleted by this commands!): 
+
+`npm db:init`
+
+## User Stories
 As a user, I want to be able to add an ingredient to the database, using a JSON POST to the route /api/ingredients/add   Example POST data:
 
 { "ingredient_name": "tequila" }
