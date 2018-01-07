@@ -13,10 +13,10 @@
       * [Snapshot: Testing](/Phases/Practice/Modules/Snapshot-Testing/README.md)
       * [Snapshot: Migrations](/Phases/Practice/Modules/Snapshot-Migrations/README.md)
       * [Mmmarkdown](/Phases/Practice/Modules/Mmmarkdown/README.md)
-      * [Pizza Restaurant (Relational DB w/ CRUD API)](/Phases/Practice/Modules/Pizza-Restaurant/README.md)
-      * [Timeoff (Approver Epic)](/Phases/Practice/Modules/Timeoff/README.md)
+      * [Pizza Restaurant \(Relational DB w/ CRUD API\)](/Phases/Practice/Modules/Pizza-Restaurant/README.md)
+      * [Timeoff \(Approver Epic\)](/Phases/Practice/Modules/Timeoff/README.md)
       * [Roam](/Phases/Practice/Modules/Roam/README.md)
-      * [Snapshot: Trossello (Members and Teams Epic)](/Phases/Practice/Modules/Snapshot-Trossello/README.md)
+      * [Snapshot: Trossello \(Members and Teams Epic\)](/Phases/Practice/Modules/Snapshot-Trossello/README.md)
       * [Snapshot: Debugging](/Phases/Practice/Modules/Snapshot-Debugging/README.md)
       * [Snapshot: Refactoring](/Phases/Practice/Modules/Snapshot-Refactoring/README.md)
       * [Your Portfolio Site](/Phases/Practice/Modules/Your-Portfolio-Site/README.md)
@@ -28,3 +28,8 @@
       * [Methodically Approaching Technical Interviews](/Phases/Apprenticeship/Modules/Technical-Interviews/README.md)
       * [System Design Interviews](/Phases/Apprenticeship/Modules/System-Design-Interviews/README.md)
 * [Phase Interviews](/Interviews.md)
+* [Omni](omni.md)
+  * [Workshops](omni/workshops.md)
+
+
+
