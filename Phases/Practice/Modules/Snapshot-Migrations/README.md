@@ -18,7 +18,7 @@ You will start by cloning a starter app which already has a database schema defi
 
 ## Specifications
 
-- Use the [node-db-migrate](https://github.com/db-migrate/node-db-migrate) library to add migrations to your project. Read the [documentatation](https://db-migrate.readthedocs.io/en/latest/Getting%20Started/usage/).
+- Use the [db-migrate](https://github.com/db-migrate/node-db-migrate) library to add migrations to your project. Read the [documentatation](https://db-migrate.readthedocs.io/en/latest/Getting%20Started/usage/).
 - Ensure that your migration files are written in SQL.
 - Using the library above to create a migration for the SQL defined in the `src/models/db/schema/schema.sql` file
 - An npm script `db:migrate` exists which migrates the db to the latest migration
