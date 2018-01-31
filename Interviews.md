@@ -77,9 +77,16 @@ You can request that your interview be recorded. This recording can then be made
 
 ##### Interview Results
 
-The outcome of your interview will be based on one thing: the percentage of specs you complete within the allotted time (50 minutes). A completion score of 80% or greater will result in a **Pass** outcome, and you'll be invited to begin the next phase immediately. A completion score of less than 80% will result in a **No Pass** outcome. In this case, you'll be expected to continue focused study/practice before reattempting the interview (following a 7-day waiting period).
+The outcome of your interview will be based on one thing: the percentage of specs you complete within the allotted time (50 minutes). A completion score of 80% or greater will result in a **Pass** outcome, and you'll be invited to begin the next phase immediately. A completion score of less than 80% will result in a **No Pass** outcome. In this case, you'll be expected to continue focused study/practice before reattempting the interview.
 
 Because the interview outcome is based solely on your completion score, you should know the outcome of the interview immediately. You will also receive a follow-up email (usually within 24 hours of completing the interview).
+
+#### Retesting Policy
+If you do not pass the interview you may retake it as many times as you need to until you pass. However, your completion percetage determines how much time you must wait before you can reattempt the interview. 
+
+Completion < 40%: 3 weeks wait time
+Completion < 60%: 2 weeks wait time
+Completion < 80%: 1 week wait time
 
 ---
 
