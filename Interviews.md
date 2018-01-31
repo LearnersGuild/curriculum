@@ -85,7 +85,9 @@ Because the interview outcome is based solely on your completion score, you shou
 If you do not pass the interview you may retake it as many times as you need to until you pass. However, your completion percentage determines how much time you must wait before you can reattempt the interview. 
 
 Completion < 40%: 3 weeks wait time
+
 Completion < 60%: 2 weeks wait time
+
 Completion < 80%: 1 week wait time
 
 ---
