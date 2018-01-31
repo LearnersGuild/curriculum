@@ -81,8 +81,8 @@ The outcome of your interview will be based on one thing: the percentage of spec
 
 Because the interview outcome is based solely on your completion score, you should know the outcome of the interview immediately. You will also receive a follow-up email (usually within 24 hours of completing the interview).
 
-#### Retesting Policy
-If you do not pass the interview you may retake it as many times as you need to until you pass. However, your completion percetage determines how much time you must wait before you can reattempt the interview. 
+##### Retesting Policy
+If you do not pass the interview you may retake it as many times as you need to until you pass. However, your completion percentage determines how much time you must wait before you can reattempt the interview. 
 
 Completion < 40%: 3 weeks wait time
 Completion < 60%: 2 weeks wait time
