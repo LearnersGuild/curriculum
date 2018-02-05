@@ -36,12 +36,9 @@ You'll find details about the phase interview process in the [Interviews](/Inter
 
 ---
 
-#### Calendars
+#### Calendar
 
 * [Guild Events](https://calendar.google.com/calendar/embed?src=learnersguild.org_r2argrccjqlrd6md4shel1lad4%40group.calendar.google.com&ctz=America%2FLos_Angeles)
-* [Phase Calendar: Foundations](https://calendar.google.com/calendar/embed?src=learnersguild.org_mq5c40phqs9bahdln84k1ub8s4%40group.calendar.google.com&ctz=America%2FLos_Angeles)
-* [Phase Calendar: Practice](https://calendar.google.com/calendar/embed?src=learnersguild.org_cp10fqmfm51bcojt2n6jscnjlk%40group.calendar.google.com&ctz=America/Los_Angeles)
-* [Phase Calendar: Apprenticeship](https://calendar.google.com/calendar/embed?src=learnersguild.org_jdtd800osuihbp2u19pau0gbi4%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 ---
 
